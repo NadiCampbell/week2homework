@@ -52,3 +52,11 @@ main {
 .img-wrapper2 img {
     width: 100%;
 }
+
+footer {
+    text-align: center;
+    background-color: cornflowerblue;
+    color: #fff; 
+    padding: 20px 0 20px 0; 
+    font-family: Arial, Helvetica, sans-serif;
+}
